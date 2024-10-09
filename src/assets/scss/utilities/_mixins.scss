@@ -1,0 +1,17 @@
+//SASS base
+@import '/src/assets/scss/base/reset';
+@import '/src/assets/scss/base/variables';
+@import '/src/assets/scss/base/typography';
+
+//SASS utilities
+//@import '/src/assets/scss/utilities/mixins';
+
+//SASS buttons
+//@import '/src/assets/scss/components/buttons.scss';
+
+//SASS layout
+//@import '/src/assets/scss/layout/footer';
+@import '/src/assets/scss/layout/header';
+
+//SASS pages
+//@import '/src/assets/scss/pages/home';
